@@ -4,6 +4,6 @@ ________________________
 ### Machine Learning Examples
 ___________________________________
 * Example 1: Face and Mouth Detection using Python OpenCV 3.1.0
-             Video Demo: http://tinyurl.com/gvxs6yr
+            Video Demo: http://tinyurl.com/gvxs6yr
 
  
