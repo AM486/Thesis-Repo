@@ -1,4 +1,4 @@
-##### Face - Mouth Detection
+##### Enhanced Face - Mouth Detection
 ==============
 I am using Python and OpenCV 3.1.0. I managed to contain the detection but the algorithm is too slow yet. 
 
