@@ -65,6 +65,8 @@ while(True):
                 if (xx,yy,ww,hh) != (None,None,None,None):
                     cv2.rectangle(roi_color, (xx, yy), (ww, hh), (0, 255, 255), 2)
                     break
+		elif(xx,yy,ww,hh) != (None,None,None,None):
+                        cv2.rectangle(roi_color, (xx, yy), (ww, hh), (0, 255, 255), 2)
 
 
     cv2.imshow('frame',frame)
