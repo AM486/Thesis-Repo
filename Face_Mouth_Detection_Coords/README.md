@@ -6,5 +6,6 @@ I am using Python and OpenCV 3.1.0. I added some code in order to export the det
 
 ex:
 `` #1212<face(0)=x:117-220,y:79-182><mouth=x:153-183,y:158-177>``
+
 `` #1212<face(1)=x:391-521,y:86-216><mouth=x:429-487,y:167-207>``
 
