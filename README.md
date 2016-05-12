@@ -12,6 +12,13 @@ ___________________________________
      Video Demonstration1: http://tinyurl.com/j6bynt4
 
      Video Demonstration2: http://tinyurl.com/h4vp6se
+     
+ 
+* 10/5/2016: [Half Face Detection - using Lukas Kanade - without mouth] (https://github.com/arvartho/Thesis-Repo/tree/master/Half%20Face%20Detection%20-%20using%20Lukas%20Kanade%20-%20without%20mouth)
+ 
+    Vide Demonstration: http://tinyurl.com/glw8efp
+
+ 
 
 
 
